@@ -1,0 +1,20 @@
+/** Program: 5-digit positive integer Program
+* File: Exercise.java
+* Summary: prompt the user to enter a 5-digit positive integer using only the / and %.
+* Author: Shertonia S. Stanley
+* Date: December 3, 2017 
+**/
+
+public static void main( String args[ ] )
+     { 
+ 
+//prompt the user to enter a guess
+          System.out.println("5-digit positive integer"); 
+     }
+}  
+
+Enter a 5-digit positive integer: [43210]
+The sum of the digits is 4 + 3 + 2 + 1 + 0 = 10
+public class Exercise {
+
+}
